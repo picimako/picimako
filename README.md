@@ -1,5 +1,9 @@
 Welcome Dear Visitor!
 
+I create plugins for JetBrains products and the IntelliJ Platform. I have more than a decade experience in QA and test automation, so my main focus when creating plugins, is test automation related libraries.
+
+Besides the current projects I maintain, there are a couple of them in the planning or implementation phase for various test automation libraries.
+
 <!--
 **picimako/picimako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

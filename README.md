@@ -6,7 +6,9 @@ Beside the current projects I maintain, there are others too in the making for v
 
 **On JetBrains Martketplace**: [WireMocha](https://plugins.jetbrains.com/plugin/18860-wiremocha) <kbd>Paid Plugin</kbd> / [Mockitools](https://plugins.jetbrains.com/plugin/18117-mockitools) / [Gherkin Overview](https://plugins.jetbrains.com/plugin/16716-gherkin-overview) / [Terra Support](https://plugins.jetbrains.com/plugin/15430-terra-support) / [JBehave Support](https://plugins.jetbrains.com/plugin/7268-jbehave-support) (I joined the group of authors)
 
-**Places you can find me at:** [Website](https://www.picimako.com) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [Buy Me a Coffee](https://www.buymeacoffee.com/picimako) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack)
+**Places you can find me at:** [Website](https://www.picimako.com) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack)
+
+**Places you can toss a coin to your developer**: [PayPal](https://www.paypal.com/donate/?hosted_button_id=VVLWNZWPBRUDL) / [Buy Me a Coffee](https://www.buymeacoffee.com/picimako)
 <!--
 **picimako/picimako** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

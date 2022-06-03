@@ -6,7 +6,7 @@ Beside the current projects I maintain, there are others too in the making for v
 
 **On JetBrains Martketplace**: [WireMocha](https://plugins.jetbrains.com/plugin/18860-wiremocha) <kbd>Paid Plugin</kbd> / [Mockitools](https://plugins.jetbrains.com/plugin/18117-mockitools) / [Gherkin Overview](https://plugins.jetbrains.com/plugin/16716-gherkin-overview) / [Terra Support](https://plugins.jetbrains.com/plugin/15430-terra-support) / [JBehave Support](https://plugins.jetbrains.com/plugin/7268-jbehave-support) (I joined the group of authors)
 
-**Places you can find me at:** [Website](https://www.picimako.com) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack)
+**Places you can find me at:** [Website](https://www.picimako.com) / [LinkedIn](https://www.linkedin.com/in/tam%C3%A1s-balog-aa8209233/) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack)
 
 **You can support my work via**: [PayPal](https://www.paypal.com/donate/?hosted_button_id=VVLWNZWPBRUDL) / [Buy Me a Coffee](https://www.buymeacoffee.com/picimako)
 <!--

@@ -6,6 +6,7 @@ Beside the current projects I maintain, I also offer IDE plugin development and 
 
 **On JetBrains Marketplace**:
 - Test automation: <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/03/wiremocha.png" title=""> [WireMocha](https://plugins.jetbrains.com/plugin/18860-wiremocha) <kbd>Paid Plugin</kbd> /
+<img height="16" src="https://www.picimako.com/wp-content/uploads/2023/09/citric_logo.png" title=""> [Citric](https://plugins.jetbrains.com/plugin/22813-citric) <kbd>Paid Plugin</kbd> / 
 <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/02/mockitools-1.png" title=""> [Mockitools](https://plugins.jetbrains.com/plugin/18117-mockitools) /
 <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/02/gherkin-overview.png" title=""> [Gherkin Overview](https://plugins.jetbrains.com/plugin/16716-gherkin-overview) /
 <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/02/terra-support.png" title=""> [Terra Support](https://plugins.jetbrains.com/plugin/15430-terra-support) /

@@ -12,7 +12,7 @@ Beside the current projects I maintain, I also offer IDE plugin development and 
 <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/02/terra-support.png" title=""> [Terra Support](https://plugins.jetbrains.com/plugin/15430-terra-support) /
 <img height="16" src="https://github.com/witspirit/IntelliJBehave/blob/master/src/main/resources/fileTypes/bdd-jb-orange-red-green.png?raw=true" title=""> [JBehave Support](https://plugins.jetbrains.com/plugin/7268-jbehave-support) (I took over its maintenance)
 - IDE plugin development: <img height="16" src="https://www.picimako.com/wp-content/uploads/2023/02/just_kitting.png" title=""> [Just Kitting](https://plugins.jetbrains.com/plugin/21139-just-kitting)
-- Other: [Lucas]() - Coming soon...
+- Apache Lucene: [Lucas](https://plugins.jetbrains.com/plugin/24567-lucas/)
 
 **On npm**:
 - Test automation: [lasponya](https://www.npmjs.com/package/lasponya)

@@ -17,6 +17,9 @@ Beside the current projects I maintain, I also offer IDE plugin development and 
 **On npm**:
 - Test automation: [lasponya](https://www.npmjs.com/package/lasponya)
 
+**Other**:
+- [IDE Plugin Ideas](https://github.com/picimako/ide-plugin-ideas)
+
 **Places you can find me at:** [Website](https://www.picimako.com) / [LinkedIn](https://www.linkedin.com/in/tamas-balog) / [X](https://x.com/picimako) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack) / E-mail: pmplugindev at protonmail dot com
 
 <!--

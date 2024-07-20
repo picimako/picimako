@@ -4,6 +4,8 @@ I create plugins for JetBrains products based on the IntelliJ Platform. I have m
 
 Beside the current projects I maintain, I also offer IDE plugin development and consultation services. If you are interested, you can contact me via one of the ways below.
 
+I also do Hungarian translations of software and other technical materials. More details [here](https://www.picimako.com/translations/).
+
 **On JetBrains Marketplace**:
 - Test automation: <img height="16" src="https://www.picimako.com/wp-content/uploads/2022/03/wiremocha.png" title=""> [WireMocha](https://plugins.jetbrains.com/plugin/18860-wiremocha) <kbd>Paid Plugin</kbd> /
 <img height="16" src="https://www.picimako.com/wp-content/uploads/2023/09/citric_logo.png" title=""> [Citric](https://plugins.jetbrains.com/plugin/22813-citric) <kbd>Paid Plugin</kbd> / 

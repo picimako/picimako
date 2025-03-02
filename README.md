@@ -16,4 +16,4 @@ I also do Hungarian translations of software and other technical materials. More
 
 ----
 
-[Website](https://www.picimako.com) / [LinkedIn](https://www.linkedin.com/in/tamas-balog) / [X](https://x.com/picimako) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / [JetBrains Platform Slack](https://plugins.jetbrains.com/slack) / E-mail: pmplugindev at protonmail dot com
+[Website](https://www.picimako.com) / [LinkedIn](https://www.linkedin.com/in/tamas-balog) / [X](https://x.com/picimako) / [I(J)nspector blog](https://ijnspector.wordpress.com/) / E-mail: pmplugindev at protonmail dot com
